@@ -37,6 +37,11 @@ header {
     margin: 0;
     display: inline;
   }
+  /* Form styling below */
+  section {
+    padding: 60px;
+  }
+
 body {
     /* more on this crazy alphanumerical value in a minute! */
     color: #39a6b2;
